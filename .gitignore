@@ -1,0 +1,19 @@
+# Obsidian 易变配置：窗口布局、缓存、备份（不同步，避免无意义冲突）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/backups/
+.obsidian/*.json.bak
+.obsidian/thumbnail-cache/
+
+# WorkBuddy 工作区记忆（AI 生成的日志，非笔记内容，避免每天产生噪音提交）
+.workbuddy/
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+~$*
